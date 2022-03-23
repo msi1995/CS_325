@@ -1,0 +1,58 @@
+Test Case #:1
+Total Value: $0
+Family Member 1 Items: 
+Family Member 2 Items: 
+
+Test Case #:2
+Total Value: $435
+Family Member 1 Items: 3, 4, 5, 6
+Family Member 2 Items: 2, 4, 5
+Family Member 3 Items: 3, 4, 6
+Family Member 4 Items: 3, 4, 5
+
+Test Case #:3
+Total Value: $83
+Family Member 1 Items: 3
+Family Member 2 Items: 2, 3
+Family Member 3 Items: 1, 2, 3
+Family Member 4 Items: 2, 3, 4
+Family Member 5 Items: 1, 2, 3, 4
+Family Member 6 Items: 1, 2, 3, 4
+Family Member 7 Items: 2, 3, 5
+Family Member 8 Items: 1, 2, 3, 5
+Family Member 9 Items: 2, 3, 4, 5
+Family Member 10 Items: 1, 2, 3, 4, 5
+
+Test Case #:4
+Total Value: $646
+Family Member 1 Items: 1
+Family Member 2 Items: 1
+Family Member 3 Items: 2
+Family Member 4 Items: 1, 2
+Family Member 5 Items: 1, 5
+Family Member 6 Items: 2, 3
+Family Member 7 Items: 7
+Family Member 8 Items: 1, 7
+Family Member 9 Items: 10
+Family Member 10 Items: 2, 7
+Family Member 11 Items: 1, 2, 7
+Family Member 12 Items: 2, 10
+Family Member 13 Items: 2, 3, 7
+Family Member 14 Items: 1, 2, 3, 7
+Family Member 15 Items: 7, 9
+Family Member 16 Items: 7, 10
+Family Member 17 Items: 1, 7, 10
+Family Member 18 Items: 2, 7, 9
+Family Member 19 Items: 2, 7, 10
+Family Member 20 Items: 1, 2, 7, 10
+Family Member 21 Items: 2, 3, 7, 9
+Family Member 22 Items: 2, 3, 7, 10
+Family Member 23 Items: 1, 2, 3, 7, 10
+Family Member 24 Items: 7, 9, 10
+Family Member 25 Items: 2, 6, 7, 10
+Family Member 26 Items: 2, 3, 5, 7, 10
+Family Member 27 Items: 2, 7, 9, 10
+Family Member 28 Items: 2, 3, 6, 7, 10
+Family Member 29 Items: 1, 2, 3, 6, 7, 10
+Family Member 30 Items: 2, 3, 7, 9, 10
+
