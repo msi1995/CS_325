@@ -1,2 +1,3 @@
-# CS_325
-Winter 2021 - OSU CS 325 (Analysis of Algorithms)
+# CS 325 - Winter 2021
+
+Assigments from CS325, Computer Analysis of Algorithms.
